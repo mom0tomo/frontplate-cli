@@ -2811,7 +2811,7 @@ get-pixels@~3.3.0:
   resolved "https://registry.yarnpkg.com/get-pixels/-/get-pixels-3.3.0.tgz#8d9795beae18850b840f749581badc05d3e36e41"
   dependencies:
     data-uri-to-buffer "0.0.3"
-    jpeg-js "^0.1.1"
+    jpeg-js "0.1.1"
     mime-types "^2.0.1"
     ndarray "^1.0.13"
     ndarray-pack "^1.1.1"
@@ -3551,7 +3551,7 @@ jpeg-js@0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.0.4.tgz#06aaf47efec7af0b1924a59cd695a6d2b5ed870e"
 
-jpeg-js@^0.1.1:
+jpeg-js@0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.1.2.tgz#135b992c0575c985cfa0f494a3227ed238583ece"
 
